@@ -293,7 +293,8 @@ sudo reboot
 # **Display temperature Home UI**
 
 
-![[PhotoScale UI.png]]
+![PhotoScale UI](https://github.com/user-attachments/assets/23c51cd2-47e0-4e0e-8439-6bfc37675604)
+
 
 ```python
 # -*- coding: utf-8 -*-
@@ -406,8 +407,9 @@ pygame.quit()
 
 # **Added Button and Settings Page**
 
+![prx](https://github.com/user-attachments/assets/7cb23097-18a8-4b06-9b55-df44cc5cea6a)
 
-![[prx.png]]
+
 ```python
 # -*- coding: utf-8 -*-
 import os
